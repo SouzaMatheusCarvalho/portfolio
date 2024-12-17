@@ -6,6 +6,7 @@
     <title>Portfólio Matheus Carvalho</title>
     <link rel="stylesheet" href="css/style.css">
     <link href='https://unpkg.com/boxicons@2.1.3/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="assets/images/favicon.png">
 </head>
 <body>
 <?php include 'includes/header.php'; ?>
@@ -26,7 +27,7 @@
                 </p>
 
                 <div class="social-icons">
-                    <a href="https://github.com/SozuaMatheusCarvalho" target="_blank">
+                    <a href="https://github.com/SouzaMatheusCarvalho" target="_blank">
                         <i class="bx bxl-github"></i>
                     </a>
                     <a href="https://www.linkedin.com/in/matheus-de-souza-carvalho-5a299619a/" target="_blank">

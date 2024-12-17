@@ -6,6 +6,7 @@
     <title>Portfólio Matheus Carvalho</title>
     <link rel="stylesheet" href="../css/style-projetos.css">
     <link href='https://unpkg.com/boxicons@2.1.3/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="../assets/images/favicon.png">
     <script src="../js/script-projeto.js"></script>
 </head>
 <body>

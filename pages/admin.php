@@ -85,6 +85,7 @@ if (!empty(\$mediaFiles)) {
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
     <title><?php echo \$title; ?></title>
     <link rel=\"stylesheet\" href=\"../../css/common.css\">
+    <link rel=\"icon\" href=\"../../assets/images/favicon.png\">
     <script src='../../js/common.js' defer></script>
 </head>
 <?php include '../../includes/header.php'; ?>
